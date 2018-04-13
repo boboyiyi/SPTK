@@ -1,2 +1,10 @@
 # SPTK
-Understand SPTK step by step
+
+
+## To do:
+
+- [x] Upload source code.
+
+- [ ] Fully test.
+
+- [ ] Understand step by step.
