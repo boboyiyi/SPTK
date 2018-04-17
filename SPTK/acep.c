@@ -93,7 +93,7 @@ static char *rcs_id = "$Id$";
 #endif
 #endif
 
-#include "core/func.h"
+#include "./core/func.h"
 
 /*  Default Values  */
 #define ORDER 25
